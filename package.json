@@ -1,0 +1,21 @@
+{
+  "name": "alura-curso-node",
+  "version": "1.0.0",
+  "description": "Curso de NodeJs: API Rest com Express e MongoDB",
+  "main": "projeto.js",
+  "scripts": {
+    "start": "node primeiro-projeto.js",
+    "test": "jest",
+    "dev": "nodemon server.js"
+  },
+  "author": "Daniel Santana",
+  "license": "ISC",
+  "dependencies": {
+    "modulo-1": "^1.0.0",
+    "modulo-2": "^1.0.3",
+    "modulo-3": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
